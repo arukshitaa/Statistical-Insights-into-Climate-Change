@@ -85,15 +85,14 @@ This project provides valuable statistical and predictive insights into global c
 ---
 
 ## 📚 Citation
-If you use the dataset, please cite:  
-> International Monetary Fund (IMF) Climate Data Portal – [https://climatedata.imf.org](https://climatedata.imf.org)
+If you use the dataset or refer to this analysis, please cite:
+> International Monetary Fund (IMF) Climate Data Portal – [https://climatedata.imf.org](https://climatedata.imf.org)  
+> Arukshita Dubey (2024). *Statistical Insights into Climate Change* — A data-driven analysis using correlation, regression, and time-series forecasting to understand global climate indicators and support SDG 13: Climate Action.
 
 ---
 
 ## 👩‍💻 Author
 **Arukshita Dubey**  
-B.Tech – Computer Science Engineering  
-JK Lakshmipat University  
 📩 [https://www.linkedin.com/in/arukshita-dubey-811b22249]
 
 ---
