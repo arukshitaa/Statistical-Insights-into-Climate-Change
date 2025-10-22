@@ -84,6 +84,12 @@ This project provides valuable statistical and predictive insights into global c
 
 ---
 
+## 👩‍💻 Author
+**Arukshita Dubey**  
+📩 [https://www.linkedin.com/in/arukshita-dubey-811b22249]
+
+---
+
 ## 📚 Citation
 If you use the dataset or refer to this analysis, please cite:
 > International Monetary Fund (IMF) Climate Data Portal – [https://climatedata.imf.org](https://climatedata.imf.org)  
@@ -91,9 +97,5 @@ If you use the dataset or refer to this analysis, please cite:
 
 ---
 
-## 👩‍💻 Author
-**Arukshita Dubey**  
-📩 [https://www.linkedin.com/in/arukshita-dubey-811b22249]
 
----
 
