@@ -62,10 +62,10 @@ Techniques and models used:
 
 ## ⚙️ Tools & Technologies
 
-| **Programming** | Python |
-| **Libraries** | pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn |
-| **Environment** | Jupyter Notebook |
-| **Preprocessing** | Excel |
+1. **Programming** : Python 
+2. **Libraries** : pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn 
+3. **Environment** : Jupyter Notebook 
+4. **Preprocessing** : Excel 
 
 ---
 
